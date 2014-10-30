@@ -3,6 +3,7 @@ Use this Format:
 
 | **Name** | **GitHub**| **Notes** |
 |:---------|:----------|:----------|
+|Alex Nguyen|[indigo5a](httmps://github.com/indigo5a)||
 |Brad Boccuzzi|[DaveyPocket](https://github.com/DaveyPocket)|I'm VP!|
 |Bradford Webb|[brjwebb](https://github.com/brjwebb)|Soft Dev Project Member|
 |Cesar Corzo|[cesarcorzo](https://github.com/cesarcorzo)||
@@ -13,3 +14,4 @@ Use this Format:
 |Renfred Harper| [RenfredH04](https://github.com/RenfredH04) | [Website](https://github.com/MasonLUG/website) Dev |
 |Samer Masterson|[samertm](https://github.com/samertm)||
 |Suraj Ravichandran|[surajravi](https://github.com/surajravi)||
+
